@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/bryce/.local/share/virtualenvs/pithermo-6FzIcRze/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
