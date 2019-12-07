@@ -7,9 +7,11 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-flask = "*"
-flask-restful = "*"
 adafruit-dht = "*"
+paho-mqtt = "*"
+ipython = "*"
+pylint = "*"
+rpi-gpio = "*"
 
 [requires]
 python_version = "3.5"
